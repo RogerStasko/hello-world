@@ -1,4 +1,4 @@
 # hello-world
 hello-world tutorial
 
-Learning to use git - whoppee!
+Learning to use git - whoopee!
